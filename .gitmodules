@@ -1,0 +1,6 @@
+[submodule "LuoguPractice"]
+	path = LuoguPractice
+	url = ../Luogu/
+[submodule "AcWingPractice"]
+	path = AcWingPractice
+	url = ../AcWing/
